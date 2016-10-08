@@ -1,0 +1,10 @@
+{
+	"full_name": "John Smith",
+	"email": "john@smith.com",
+	"github_username": "johnsmith",
+	"project_name": "Cookiecutter-Cpp-Simple",
+	"repo_name": "cookiecutter_cpp_simple",
+	"project_short_description": "Create a simple C++ program.",
+	"year": "2016",
+	"version": "0.1.0"
+}
