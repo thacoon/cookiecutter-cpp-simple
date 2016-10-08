@@ -3,8 +3,8 @@
 	"email": "john@smith.com",
 	"github_username": "johnsmith",
 	"project_name": "Cookiecutter-Cpp-Simple",
-	"repo_name": "cookiecutter_cpp_simple",
-	"project_short_description": "Create a simple C++ program.",
+	"repo_name": "cookiecutter-cpp-simple",
+	"project_short_description": "A cookiecutter template for a simple C++ project.",
 	"year": "2016",
 	"version": "0.1.0"
 }
